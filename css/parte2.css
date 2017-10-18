@@ -1,0 +1,20 @@
+div{
+  height: 300px;
+  padding: 10px;
+  margin:30px;
+  
+}
+
+.yellow{
+    background-color: #ffc107;
+}
+
+.black{
+    background-color: #333333;
+    color:#ffffff;
+}
+.small {
+
+  width:300px;
+
+}

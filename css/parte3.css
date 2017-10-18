@@ -1,0 +1,21 @@
+div{
+  height: 200px;
+  padding:5px;
+  margin:10px;
+  display: inline-block;
+  width:250px;
+  
+}
+
+.yellow{
+    background-color: #ffc107;
+}
+
+.black{
+    background-color: #333333;
+    color:#ffffff;
+}
+
+
+  
+
